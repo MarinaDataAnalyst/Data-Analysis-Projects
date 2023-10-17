@@ -4,7 +4,6 @@
 <hr style="border: 2px  grey;" />
 This repository contains the projects that I did during the Professional Data Analysis Course at Yandex School. 
 
-This repository contains the projects that I did during the Professional Data Analysis Course at Yandex School.
 There were processed real big data from different businesses and profeccional sectors: banking, product, marketing, etc. In general I did 13 projects. The final project inckluded 3 parts: main Exploratory and giving insights and summary project with visualisation in Tableau and presentation of thoughts in PowerPoint, then A/B tests and SQL query tasks.
 
 Achieved results and skills: 
