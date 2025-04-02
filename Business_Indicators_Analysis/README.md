@@ -1,33 +1,33 @@
-# Анализ бизнес-показателей мобильного приложения
+# Mobile app business metrics analysis
 
-## Данные:  
+## Data:
 
-**Таблица 1** `информация о пользовательских сессиях`
+**Table 1** `user session information`
 
-- уникальный идентификатор пользователя,
-- страна пользователя,
-- тип устройства пользователя,
-- идентификатор источника перехода,
-- дата и время начала сессии,
-- дата и время окончания сессии.
+- unique user identifier,
+- user country,
+- user device type,
+- referral source identifier,
+- session start date and time,
+- session end date and time.
 
-**Таблица 2** `информация о покупках в приложении`
+**Table 2** `in-app purchase information`
 
-- уникальный идентификатор пользователя,
-- дата и время покупки,
-- сумма заказа.
+- unique user identifier,
+- purchase date and time,
+- order amount.
 
-**Таблица 3** `информация о рекламных расходах`
+**Table 3** `advertising expense information`
 
-- идентификатор рекламного источника,
-- дата проведения рекламной кампании,
-- расходы на эту кампанию.
+- advertising source identifier,
+- advertising campaign date,
+- campaign expenses.
 
-## Задача:  
+## Task:
 
-Провести анализ и оценку бизнес-показателей мобильного приложения (LTV, Retention Rate, CAC, ROI, CTR) на основании данных о посещениях/действиях в приложении новыми пользователями в период с 2019-05-01 по 2019-10-27
+Conduct an analysis and evaluation of business indicators of a mobile application (LTV, Retention Rate, CAC, ROI, CTR) based on data on visits/actions in the application by new users in the period from 2019-05-01 to 2019-10-27
 
-## Используемые библиотеки:  
+## Libraries used:
 
 *pandas, numpy, datetime, seaborn, matplotlib*
 
