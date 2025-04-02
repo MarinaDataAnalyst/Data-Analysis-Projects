@@ -1,5 +1,5 @@
 ### Content.
-### Diploma: https://disk.yandex.ru/i/tTCoFXtfisOg8Q
+### Diploma: https://www.dropbox.com/scl/fi/579bb9c7ea2z2nof86osi/Marina-Okhrimenko_20222DA00213-eng.ver.pdf?rlkey=q47df7q94t45w8wm3t1pu7r5b&st=hoynencc&dl=0
 
 <hr style="border: 2px  grey;" />
 This repository contains the projects that I did during the Professional Data Analysis Course at Yandex School. 
