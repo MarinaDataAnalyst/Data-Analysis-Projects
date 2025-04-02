@@ -1,45 +1,45 @@
-# Анализ базы данных сервиса для чтения книг по подписке  
+# Analysis of the subscription-based book reading service database   
 
-## Данные:  
+## Data:  
 
-**Таблица 1** `Книги`:
+**Table 1** `Books`:
 
-- идентификатор книги;
-- идентификатор автора;
-- название книги;
-- количество страниц;
-- дата публикации книги;
-- идентификатор издателя.
+- book id;
+- author id;
+- book title;
+- number of pages;
+- book publication date;
+- publisher ID.
 
-**Таблица 2** `Авторы книг`:
+**Table 2** `Authors of books`:
 
-- идентификатор автора;
-- имя автора.
+- author identifier;
+- author name.
 
-**Таблица 3** `Издательства`:
+**Table 3** `Publishers`:
 
-- идентификатор издательства;
-- название издательства;
+- publisher identifier;
+- publisher name;
 
-**Таблица 4** `Пользовательские оценки книг`:
+**Table 4** `User ratings of books`:
 
-- идентификатор оценки;
-- идентификатор книги;
-- имя пользователя, оставившего оценку;
-- оценка книги.
+- rating ID;
+- book ID;
+- username of the user who left the rating;
+- book rating.
 
-**Таблица 5**`Пользовательские обзоры книг`:
+**Table 5**`User Reviews of Books`:
 
-- идентификатор обзора;
-- идентификатор книги;
-- имя пользователя, написавшего обзор;
-- текст обзора.
+- review ID;
+- book ID;
+- username of the person who wrote the review;
+- review text.
 
-## Задача:  
+## Assignment:  
 
-Проанализировать базу данных сервиса книг по подписке. 
+Analyze the database of a book subscription service.
 
-## Используемые библиотеки:  
+## Libraries used:
 
 *pandas, sqlalchemy.*
 
