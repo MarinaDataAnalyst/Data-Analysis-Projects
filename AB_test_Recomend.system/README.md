@@ -1,34 +1,32 @@
 <h1>Table of Contents<span class="tocSkip"></span></h1>
 <div class="toc"><ul class="toc-item"></ul></div>
 
-# Проект A/B-тестирование 
+# Project A/B testing
 
- <hr style="border: 2px  grey;" />
+<hr style="border: 2px grey;" />
 
-# Данные:
+# Data:
 
-Анализ проводился на основе данных 4-х датасетов, содержащих:
--	маркетинговые события;
--	информацию о регистрации пользователей;
--	информация об участниках А/В тестов;
--	информация о событиях, совершенных пользователями.
+The analysis was conducted based on data from 4 datasets containing:
+- marketing events;
+- user registration information;
+- information about A/B test participants;
+- information about events performed by users.
 
-<hr style="border: 2px  grey;" />
+<hr style="border: 2px grey;" />
 
-# Цели и задачи:
+# Objectives and tasks:
 
-- Оценить корректность проведения теста;
-- Проанализировать результаты теста;
-- Сделать выводы и дать рекомендации.
+- Assess the correctness of the test;
+- Analyze the test results;
+- Draw conclusions and give recommendations.
 
-<hr style="border: 2px  grey;" />
+<hr style="border: 2px grey;" />
 
-
-# Используемые библиотеки Python:
+# Python libraries used:
 
 *pandas, matplotlib, seaborn, plotly, scipy.*
 
+<hr style="border: 2px grey;" />
 
-<hr style="border: 2px  grey;" />
-
-В данном проекте мной были проведены: предобработка, проверка на соответствие техническому заданию и очистка данных, EDA анализ, расчет конверсии, построение конверсионной воронки, статистический анализ. Сделаны выводы. Даны рекомендации.
+In this project I performed: pre-processing, checking for compliance with the technical task and data cleaning, EDA analysis, conversion calculation, building a conversion funnel, statistical analysis. Conclusions were made. Recommendations were given.
