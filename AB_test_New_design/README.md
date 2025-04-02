@@ -1,31 +1,29 @@
-## Проект: Анализ пользовательского поведения в мобильном приложении. 
+## Project: Analysis of user behavior in a mobile application.
 
-<hr style="border: 2px  grey;" />
+<hr style="border: 2px gray;" />
 
-## Данные:
+## Data:
 
-Анализ проводился на основе данных записей логов (действий пользователя, или событий), содержащих:
--	название события;
--	уникальный идентификатор пользователя;
--	время события;
--	номер эксперимента: 246 и 247 — контрольные группы, а 248 — экспериментальная.
+The analysis was conducted based on the data of log entries (user actions, or events) containing:
+- event name;
+- unique user identifier;
+- event time;
+- experiment number: 246 and 247 are control groups, and 248 is experimental.
 
-<hr style="border: 2px  grey;" />
+<hr style="border: 2px gray;" />
 
-## Цели и задачи:
+## Objectives and tasks:
 
-1. Изучить воронку продаж;
-2. Исследовать результаты A/A/B-эксперимента;
-3. Дать рекомендации по внедрению или отказу от введения нового дизайна. 
+1. Study the sales funnel;
+2. Research the results of the A/A/B experiment;
+3. Provide recommendations on the implementation or rejection of the new design.
 
-<hr style="border: 2px  grey;" />
+<hr style="border: 2px gray;" />
 
-
-## Используемые библиотеки Python:
+## Python libraries used:
 
 *pandas, matplotlib, seaborn, plotly, scipy.*
 
+<hr style="border: 2px gray;" />
 
-<hr style="border: 2px  grey;" />
-
-В данном проекте мной были изучены принципы событийной аналитики, проведены: предобработка данных, EDA анализ, статистический анализ. Сделаны выводы.
+In this project, I studied the principles of event analytics, conducted: data preprocessing, EDA analysis, statistical analysis. Conclusions were made.
