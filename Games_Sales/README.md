@@ -1,27 +1,26 @@
-# Анализ игр
+# Game Analysis
 
-## Данные:  
+## Data:
 
-- наименование игры
-- платформа (Xbox, PlayStation и.т.д.)
-- год выпуска
-- жанр игры
-- продажи в Северной Америке (миллионы проданных копий)
-- продажи в Европе (миллионы проданных копий)
-- продажи в Японии (миллионы проданных копий)
-- продажи в других странах (миллионы проданных копий)
-- оценка критиков (максимум 100)
-- оценка пользователей (максимум 10)
-- рейтинг от организации ESRB.
+- Game name
+- Platform (Xbox, PlayStation, etc.)
+- Release year
+- Game genre
+- Sales in North America (millions of copies sold)
+- Sales in Europe (millions of copies sold)
+- Sales in Japan (millions of copies sold)
+- Sales in other countries (millions of copies sold)
+- Critic rating (maximum 100)
+- User rating (maximum 10)
+- ESRB rating.
 
-## Цель
-Интернет-магазину по продаже компьютерных игр, необходимо спланировать рекламную кампанию на 2017г. 
+## Objective
+An online store selling computer games needs to plan an advertising campaign for 2017.
 
-## Задача:  
+## Task:
 
-Анализ представленных данных, определение факторов, влияющих на успешность игры и ее продаж.
+Analysis of the presented data, determination of factors influencing the success of the game and its sales.
 
-## Используемые библиотеки:  
-
+## Libraries used:
 *pandas, scipy, numpy, math, seaborn, matplotlib*
 
