@@ -27,4 +27,5 @@ Achieved results and skills:
 |[Online-Shop Game Analysis](https://github.com/MarinaDataAnalyst/Data-Analysis-Projects/tree/main/Games_Sales)| Identification of the success factors of the games|
 |[Analysis of the Online Books service](https://github.com/MarinaDataAnalyst/Data-Analysis-Projects/tree/main/SQL)|Extracting data from the database using SQL Postgre|
 |[Business Analysis of a mobile app](https://github.com/MarinaDataAnalyst/Data-Analysis-Projects/tree/main/Business_Indicators_Analysis)| LTV, Retention Rate, CTR, CAC, ROI, graphic visualisation|
+|[SQL](https://github.com/MarinaDataAnalyst/Data-Analysis-Projects/tree/main/SQL)| Analysis of the subscription-based book reading service database. SQL Postgre, Python|
 
