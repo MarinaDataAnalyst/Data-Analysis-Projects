@@ -1,8 +1,11 @@
-# Mobile app business metrics analysis
+# Mobile App Business Performance Analysis
+# Objective
+The goal of this project is to analyse and evaluate key business performance indicators for a mobile application to support data-driven decision-making.
+The analysis focuses on understanding customer acquisition efficiency, user retention, monetisation, and marketing ROI.
 
-## Data:
+## Data Sources
 
-**Table 1** `user session information`
+**1. User Sessions** `user session information, Table 1.`
 
 - unique user identifier,
 - user country,
@@ -11,23 +14,39 @@
 - session start date and time,
 - session end date and time.
 
-**Table 2** `in-app purchase information`
+**2. In-App Purchases** `in-app purchase information, Table 2.`
 
 - unique user identifier,
 - purchase date and time,
 - order amount.
 
-**Table 3** `advertising expense information`
+**3. Advertising Costs** `advertising expense information, Table 3.`
 
 - advertising source identifier,
 - advertising campaign date,
 - campaign expenses.
 
-## Task:
+## Business Metrics Analysed
 
-Conduct an analysis and evaluation of business indicators of a mobile application (LTV, Retention Rate, CAC, ROI, CTR) based on data on visits/actions in the application by new users in the period from 2019-05-01 to 2019-10-27
+- LTV (Customer Lifetime Value)
+- Retention Rate
+- CAC (Customer Acquisition Cost)
+- ROI (Return on Investment)
+- CTR (Click-Through Rate)
 
-## Libraries used:
+## Analysis Scope
+
+- Period analysed: 2019-05-01 – 2019-10-27
+- Focus on new users and their behaviour from first session to conversion and retention
+- Evaluation of marketing channel performance and cost efficiency
+
+## Key Outcomes
+
+- Identification of high- and low-performing acquisition channels
+- Comparison of user retention and monetisation across channels
+- Data-driven insights to support optimisation of marketing spend and customer acquisition strategy
+
+## Tools & Libraries:
 
 *pandas, numpy, datetime, seaborn, matplotlib*
 
